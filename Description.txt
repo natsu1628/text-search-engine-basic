@@ -1,0 +1,3 @@
+This project was done during my second year of B. Tech.
+The code searches a given word from a page or text file and displays the frequency of the word along with the line numbers.
+It uses the string search algorithm concept and more specifically it is based on Bayer-Moore String search algorithm.
